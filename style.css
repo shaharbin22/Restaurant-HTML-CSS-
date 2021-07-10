@@ -1,0 +1,277 @@
+@media (min-width:1025px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+.head{
+    background-image: url(img/hero_2.jpg);
+    background-attachment: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    display: inline-block;
+    width: 100%;
+    height: 700px;
+    color: #ffffff;
+}
+.head a{
+    color: #ffffff;
+}
+.head2{
+    text-align: center;
+    display: inline-block;
+    width: 600px;
+    position: relative;
+    left: 400px;
+    top: 280px;
+}
+.head2 button{
+    color: #ffffff;
+}
+i{
+    font-size: 40px;
+}
+.menu1{
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+    margin: 20px;
+    position: relative;
+    left: 100px;
+
+}
+.menu2{
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+    margin: 20px;
+    position: relative;
+    left: 100px;
+}
+.menu3{
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+    margin: 20px;
+    position: relative;
+    left: 100px;
+}
+.menu4{
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+    margin: 20px;
+    position: relative;
+    left: 100px;
+}
+.special{
+position: absolute;
+    left: 500px;
+    height: 300px;
+    width: 300px;
+}
+.red{
+    color: red;
+}
+.price p{
+    color: red;
+}
+.price{
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    right: 600px;
+}
+.row img{
+    position: relative;
+    left: 350px;
+    margin-left: 30px;
+    margin-top: 100px;
+    height: 400px;
+    width: 400px;
+}
+.food .dot1{
+    text-align: center;
+    height: 60px;
+    width: 60px;
+    background-color: red;
+    color: #ffffff;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    top: 300px;
+    right: 320px;
+  }
+  .food .dot2{
+    text-align: center;
+    height: 60px;
+    width: 60px;
+    background-color: red;
+    color: #ffffff;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    top: 290px;
+    left: 60px;
+  }
+.food-p{
+    display: inline-block;
+    position: relative;
+    top: 100px;
+    color: #ffffff;
+}
+.p1{
+    position: relative;
+    top: 400px;
+    right: 200px;
+    text-align: center;
+    float: right;
+    font-size: 30px;
+    top: 400px;
+    color: black;
+
+}
+.p2{
+    position: relative;
+    top: 400px;
+    right: 500px;
+    text-align: center;
+    float: left;
+    font-size: 30px;
+    color: black;
+}
+.menu-pic-blocks{
+    background-image: url(img/background1.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.headline{
+    margin-left: 50px;
+}
+.headline h1{
+    text-align: center;
+}
+.headline p{
+    text-align: center;
+    color: red;
+}
+
+.menu-pic-blocks img{
+    
+    height: 230px;
+    width: 230px;
+}
+.grid{
+    display:grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 250px;
+    background-color: #ffffff;
+    margin-left: 100px;
+    
+}
+.grid p{
+    width: 200px;
+}
+.test-head p{
+    color: red;
+}
+
+
+.test-head{
+    text-align: center;
+    margin-left: 60px;
+   
+
+}
+.testimonial img{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+}
+.test1{
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    grid-template-rows: 100px;  
+    margin-left: 60px;
+    background-color: #ffffff;
+}
+.test1 p{
+    width: 300px;
+    text-align: left;
+}
+.blog-head p{
+    color: red;
+}
+
+.blog-head{
+    text-align: center;
+    position: relative;
+    top: 200px;
+    left: 30px;
+}
+.blog{
+    position: relative;
+    top: 300px;
+    display: grid;
+    grid-template-rows: 230px 230px;
+    grid-template-columns: 25% 25% 25% 25%;
+    width: 890px;
+    margin-left: 150px;
+    height: 200px;
+}
+
+.blog div img{
+    height: 200px;
+    width: 200px;
+}
+.input-news{
+    text-align: center;
+    display: inline-block;
+    background-color: grey;
+    color: #ffffff;
+    position: relative;
+    top: 350px;
+    margin-left: 400px;
+    width:600px
+}
+.input1{
+    margin: 20px;
+    width: 300px;
+}
+.about{
+    position: relative;
+    top: 400px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 300px;
+    font-size: 13px;
+}    
+.about i{
+    margin: 7px;
+}
+.info{
+    position: relative;
+    left: 400px;
+    top: 215px;
+}
+.links{
+    position: relative;
+    bottom: 191px;
+    left: 820px;
+}
+.list-group-item{
+    color: red ;
+}
+
+
+
+
+
+
+
+
+
+}
+
+
